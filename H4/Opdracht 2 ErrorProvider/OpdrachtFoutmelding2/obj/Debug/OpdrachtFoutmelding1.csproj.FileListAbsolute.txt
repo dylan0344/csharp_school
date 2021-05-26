@@ -1,0 +1,9 @@
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\bin\Debug\OpdrachtFoutmelding1.exe.config
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\obj\Debug\OpdrachtFoutmelding1.exe
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\obj\Debug\OpdrachtFoutmelding1.pdb
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\bin\Debug\OpdrachtFoutmelding1.exe
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\bin\Debug\OpdrachtFoutmelding1.pdb
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\obj\Debug\OpdrachtFoutmelding1.csprojResolveAssemblyReference.cache
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\obj\Debug\OpdrachtVariabelen2.FrmInvoerGetallen.resources
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\obj\Debug\OpdrachtFoutmelding1.Properties.Resources.resources
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\obj\Debug\OpdrachtFoutmelding1.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+D:\Documenten\Werk\UItgeverEi\C#\Leren Programmeren C# deel 1 Basis\Uitwerkingen\H1 IDE\OpdrachtVariabelen2\OpdrachtVariabelen2\bin\Debug\OpdrachtVariabelen2.exe.config
+D:\Documenten\Werk\C#\Deel1\H3 Variabelen\OpdrachtVariabelen2 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtVariabelen2.csprojResolveAssemblyReference.cache
+D:\Documenten\Werk\C#\Deel1\H3 Variabelen\OpdrachtVariabelen2 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtVariabelen2.FrmInvoerGetallen.resources
+D:\Documenten\Werk\C#\Deel1\H3 Variabelen\OpdrachtVariabelen2 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtVariabelen2.Properties.Resources.resources
+D:\Documenten\Werk\C#\Deel1\H3 Variabelen\OpdrachtVariabelen2 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtVariabelen2.csproj.GenerateResource.cache
+D:\Documenten\Werk\C#\Deel1\H3 Variabelen\OpdrachtVariabelen2 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtVariabelen2.csproj.CoreCompileInputs.cache
+D:\Documenten\Werk\C#\Deel1\H3 Variabelen\OpdrachtVariabelen2 Invoer getallen\OpdrachtVariabelen2\bin\Debug\OpdrachtVariabelen2.exe.config
+D:\Documenten\Werk\C#\Deel1\H3 Variabelen\OpdrachtVariabelen2 Invoer getallen\OpdrachtVariabelen2\bin\Debug\OpdrachtVariabelen2.exe
+D:\Documenten\Werk\C#\Deel1\H3 Variabelen\OpdrachtVariabelen2 Invoer getallen\OpdrachtVariabelen2\bin\Debug\OpdrachtVariabelen2.pdb
+D:\Documenten\Werk\C#\Deel1\H3 Variabelen\OpdrachtVariabelen2 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtVariabelen2.exe
+D:\Documenten\Werk\C#\Deel1\H3 Variabelen\OpdrachtVariabelen2 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtVariabelen2.pdb
+D:\Documenten\Werk\C#\Deel1\H4 Foutafhandeling\Opdracht Foutmelding 1 Invoer getallen\OpdrachtVariabelen2\bin\Debug\OpdrachtFoutmelding1.exe.config
+D:\Documenten\Werk\C#\Deel1\H4 Foutafhandeling\Opdracht Foutmelding 1 Invoer getallen\OpdrachtVariabelen2\bin\Debug\OpdrachtFoutmelding1.exe
+D:\Documenten\Werk\C#\Deel1\H4 Foutafhandeling\Opdracht Foutmelding 1 Invoer getallen\OpdrachtVariabelen2\bin\Debug\OpdrachtFoutmelding1.pdb
+D:\Documenten\Werk\C#\Deel1\H4 Foutafhandeling\Opdracht Foutmelding 1 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtVariabelen2.csprojResolveAssemblyReference.cache
+D:\Documenten\Werk\C#\Deel1\H4 Foutafhandeling\Opdracht Foutmelding 1 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtVariabelen2.FrmInvoerGetallen.resources
+D:\Documenten\Werk\C#\Deel1\H4 Foutafhandeling\Opdracht Foutmelding 1 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtFoutmelding1.Properties.Resources.resources
+D:\Documenten\Werk\C#\Deel1\H4 Foutafhandeling\Opdracht Foutmelding 1 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtVariabelen2.csproj.GenerateResource.cache
+D:\Documenten\Werk\C#\Deel1\H4 Foutafhandeling\Opdracht Foutmelding 1 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtVariabelen2.csproj.CoreCompileInputs.cache
+D:\Documenten\Werk\C#\Deel1\H4 Foutafhandeling\Opdracht Foutmelding 1 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtFoutmelding1.exe
+D:\Documenten\Werk\C#\Deel1\H4 Foutafhandeling\Opdracht Foutmelding 1 Invoer getallen\OpdrachtVariabelen2\obj\Debug\OpdrachtFoutmelding1.pdb

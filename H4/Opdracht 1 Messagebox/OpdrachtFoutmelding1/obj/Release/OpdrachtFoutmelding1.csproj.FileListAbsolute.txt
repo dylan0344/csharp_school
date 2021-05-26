@@ -1,0 +1,18 @@
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\bin\Release\OpdrachtFoutmelding1.exe.config
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\bin\Release\OpdrachtFoutmelding1.exe
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\bin\Release\OpdrachtFoutmelding1.pdb
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtVariabelen2.FrmInvoerGetallen.resources
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding1.Properties.Resources.resources
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding1.csproj.GenerateResource.Cache
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding1.exe
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding1.pdb
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 1 Messagebox\OpdrachtFoutmelding1\bin\Release\OpdrachtFoutmelding1.exe.config
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 1 Messagebox\OpdrachtFoutmelding1\bin\Release\OpdrachtFoutmelding1.exe
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 1 Messagebox\OpdrachtFoutmelding1\bin\Release\OpdrachtFoutmelding1.pdb
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding1.csprojAssemblyReference.cache
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtVariabelen2.FrmInvoerGetallen.resources
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding1.Properties.Resources.resources
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding1.csproj.GenerateResource.cache
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding1.csproj.CoreCompileInputs.cache
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding1.exe
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 1 Messagebox\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding1.pdb

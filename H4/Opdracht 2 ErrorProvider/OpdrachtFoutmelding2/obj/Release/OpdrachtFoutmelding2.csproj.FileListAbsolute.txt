@@ -1,0 +1,28 @@
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding1\bin\Release\OpdrachtFoutmelding2.exe.config
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding1\bin\Release\OpdrachtFoutmelding2.exe
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding1\bin\Release\OpdrachtFoutmelding2.pdb
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding2.csprojResolveAssemblyReference.cache
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding2.FrmInvoerGetallen.resources
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding2.Properties.Resources.resources
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding2.csproj.GenerateResource.Cache
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding2.exe
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding1\obj\Release\OpdrachtFoutmelding2.pdb
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding2\bin\Release\OpdrachtFoutmelding2.exe.config
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.exe
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.pdb
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding2\bin\Release\OpdrachtFoutmelding2.exe
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding2\bin\Release\OpdrachtFoutmelding2.pdb
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.csprojResolveAssemblyReference.cache
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.FrmInvoerGetallen.resources
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.Properties.Resources.resources
+D:\Documenten\Werk\C#\Deel1\3e druk\CodeOpdrachten\H4 Foutafhandeling\Opdracht Foutmelding 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.csproj.GenerateResource.Cache
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 2 ErrorProvider\OpdrachtFoutmelding2\bin\Release\OpdrachtFoutmelding2.exe.config
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 2 ErrorProvider\OpdrachtFoutmelding2\bin\Release\OpdrachtFoutmelding2.exe
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 2 ErrorProvider\OpdrachtFoutmelding2\bin\Release\OpdrachtFoutmelding2.pdb
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.csprojAssemblyReference.cache
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.FrmInvoerGetallen.resources
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.Properties.Resources.resources
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.csproj.GenerateResource.cache
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.csproj.CoreCompileInputs.cache
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.exe
+E:\Cloud\Dropbox\_2020-2021\_AO_SD\bam4a19\CSharp\CSharp 7\H4\Opdracht 2 ErrorProvider\OpdrachtFoutmelding2\obj\Release\OpdrachtFoutmelding2.pdb
