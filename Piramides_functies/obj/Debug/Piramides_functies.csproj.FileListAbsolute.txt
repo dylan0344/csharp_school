@@ -1,0 +1,14 @@
+E:\Cloud\Dropbox\Documenten\visualstudio\Piramides_functies\bin\Debug\Piramides_functies.exe.config
+E:\Cloud\Dropbox\Documenten\visualstudio\Piramides_functies\bin\Debug\Piramides_functies.exe
+E:\Cloud\Dropbox\Documenten\visualstudio\Piramides_functies\bin\Debug\Piramides_functies.pdb
+E:\Cloud\Dropbox\Documenten\visualstudio\Piramides_functies\obj\Debug\Piramides_functies.csprojAssemblyReference.cache
+E:\Cloud\Dropbox\Documenten\visualstudio\Piramides_functies\obj\Debug\Piramides_functies.csproj.CoreCompileInputs.cache
+E:\Cloud\Dropbox\Documenten\visualstudio\Piramides_functies\obj\Debug\Piramides_functies.exe
+E:\Cloud\Dropbox\Documenten\visualstudio\Piramides_functies\obj\Debug\Piramides_functies.pdb
+E:\Cloud\Dropbox\Documenten\visualstudio\csharp_bam4a19_gitlab\Piramides_functies\bin\Debug\Piramides_functies.exe.config
+E:\Cloud\Dropbox\Documenten\visualstudio\csharp_bam4a19_gitlab\Piramides_functies\bin\Debug\Piramides_functies.exe
+E:\Cloud\Dropbox\Documenten\visualstudio\csharp_bam4a19_gitlab\Piramides_functies\bin\Debug\Piramides_functies.pdb
+E:\Cloud\Dropbox\Documenten\visualstudio\csharp_bam4a19_gitlab\Piramides_functies\obj\Debug\Piramides_functies.csprojAssemblyReference.cache
+E:\Cloud\Dropbox\Documenten\visualstudio\csharp_bam4a19_gitlab\Piramides_functies\obj\Debug\Piramides_functies.csproj.CoreCompileInputs.cache
+E:\Cloud\Dropbox\Documenten\visualstudio\csharp_bam4a19_gitlab\Piramides_functies\obj\Debug\Piramides_functies.exe
+E:\Cloud\Dropbox\Documenten\visualstudio\csharp_bam4a19_gitlab\Piramides_functies\obj\Debug\Piramides_functies.pdb

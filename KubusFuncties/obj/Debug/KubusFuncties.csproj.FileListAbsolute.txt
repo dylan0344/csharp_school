@@ -1,0 +1,7 @@
+E:\Cloud\Dropbox\Documenten\visualstudio\KubusFuncties\obj\Debug\KubusFuncties.csprojAssemblyReference.cache
+E:\Cloud\Dropbox\Documenten\visualstudio\KubusFuncties\obj\Debug\KubusFuncties.csproj.CoreCompileInputs.cache
+E:\Cloud\Dropbox\Documenten\visualstudio\KubusFuncties\bin\Debug\KubusFuncties.exe.config
+E:\Cloud\Dropbox\Documenten\visualstudio\KubusFuncties\bin\Debug\KubusFuncties.exe
+E:\Cloud\Dropbox\Documenten\visualstudio\KubusFuncties\bin\Debug\KubusFuncties.pdb
+E:\Cloud\Dropbox\Documenten\visualstudio\KubusFuncties\obj\Debug\KubusFuncties.exe
+E:\Cloud\Dropbox\Documenten\visualstudio\KubusFuncties\obj\Debug\KubusFuncties.pdb
